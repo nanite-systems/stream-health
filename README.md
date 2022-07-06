@@ -3,7 +3,7 @@
   <img src="https://nanite-systems.net/images/ns.colored.svg" width="200" alt="Nest Logo" />
 </a>
 
-![version](https://img.shields.io/github/package-json/v/nanite-systems/stream-health)
+[![version](https://img.shields.io/github/package-json/v/nanite-systems/stream-health?color=blue)](https://github.com/nanite-systems/stream-health)
 [![issues](https://img.shields.io/github/issues/nanite-systems/stream-health)](https://github.com/nanite-systems/stream-health/issues)
 [![dependecies](https://img.shields.io/librariesio/github/nanite-systems/stream-health)](https://libraries.io/github/nanite-systems/stream-health)
 [![license](https://img.shields.io/github/license/nanite-systems/stream-health)](https://github.com/nanite-systems/stream-health/blob/main/LICENSE)
